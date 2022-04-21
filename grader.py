@@ -15,7 +15,7 @@ RUBRIC = [
           ("Exercise 4: Luminance", "luminance", 4.0),
           ("Exercise 5: Grayscale", "grayscale", 4.0), 
           ("Exercise 6: Make stripe", "make_strip", 10.0),  
-          ("Exercise 8: Packed color", "packed_color", 4.0),  
+          ("Exercise 8: Pack color", "pack_color", 4.0),  
           ("Exercise 9: Unpack colors", "unpack_colors", 10.0),  
           ("Exercise 10: Shopping list amounts", "shopping_list_amounts", 10.0),  
           ("Exercise 11: Shopping list", "shopping_list", 10.0)
